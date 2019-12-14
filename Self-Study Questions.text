@@ -1,0 +1,19 @@
+Self-Study Questions
+
+1,If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+     Semantic elements help structure the code we create, making it more readable and easier to maintain.    
+
+2,Name two big differences between display: block; and display: inline;.
+    The big difference are block level elements take up the whole line of the page, the next element after it will aways begin a new line. 
+        and for the inline level element takes up as much space as required.
+
+3,What are the 4 areas of the box model?
+    margin,border, padding , content
+
+4,While using flexbox, what axis does the following property work on: align-items: center?
+    The align items property controls the position of items on the cross axis. 
+
+5,Explain why git is valuable to a team of developers.
+
+    You can upload code to Git, where your coworkers can access it and edit it. also everytime you or your workers change the code, the Git tracks everything you've made so you know what's going on.
